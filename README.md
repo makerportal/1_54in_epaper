@@ -24,6 +24,8 @@ We are wiring the 1.54in e-Paper display via SPI on the Arduino Uno board:
 ![1.54in e-paper wiring table with BLE Nano](/images/epaper_BLE_nano_wiring_table.png)
 
 <a id="arduino"></a>
-# - Arduino Code Descriptions -
-
-- the
+# - Arduino Example Code Descriptions -
+The first example is a simple updating text display and can be found in the example folder:
+- text
+The second example allows users to send text from a smartphone (we use the BLExAR app) to a BLE-Nano Arduino board that updates the 1.54in e-Paper display:
+- BLE_text_display
