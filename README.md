@@ -18,3 +18,5 @@ The 1_54in_epaper library can be downloaded using git:
 <a id="wiring"></a>
 # - Wiring the 1.54in e-Paper Display to Arduino Uno -
 We are wiring the 1.54in e-Paper display via SPI on the Arduino Uno board:
+
+1_54in_epaper_wiring_w_BLE_nano.jpg
