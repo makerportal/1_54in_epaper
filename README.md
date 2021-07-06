@@ -32,4 +32,4 @@ The first example is a simple updating text display and can be found in the exam
 
 The second example allows users to send text from a smartphone (we use the BLExAR app) to a BLE-Nano Arduino board that updates the 1.54in e-Paper display:
 
-- BLE_text_display
+- BLE_text_display.ino
