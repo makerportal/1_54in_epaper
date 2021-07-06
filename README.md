@@ -23,3 +23,7 @@ We are wiring the 1.54in e-Paper display via SPI on the Arduino Uno board:
 
 ![1.54in e-paper wiring table with BLE Nano](/images/epaper_BLE_nano_wiring_table.png)
 
+<a id="arduino"></a>
+# - Arduino Code Descriptions -
+
+- the
