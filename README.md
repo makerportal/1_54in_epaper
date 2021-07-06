@@ -16,5 +16,5 @@ The 1_54in_epaper library can be downloaded using git:
     git clone https://github.com/makerportal/solar-char
 
 <a id="wiring"></a>
-# - Wiring Diagram for 1.54in e-Paper Interfacing with Arduino Uno -
+# - Wiring the 1.54in e-Paper Display to Arduino Uno -
 We are wiring the 1.54in e-Paper display via SPI on the Arduino Uno board:
