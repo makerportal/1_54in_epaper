@@ -13,7 +13,7 @@ See full tutorial here: [1.54in e-Paper Display with Arduino](https://makersport
 
 The 1_54in_epaper library can be downloaded using git:
 
-    git clone https://github.com/makerportal/solar-char
+    git clone https://github.com/makerportal/1_54in_epaper
 
 <a id="wiring"></a>
 # - Wiring the 1.54in e-Paper Display to Arduino Uno -
