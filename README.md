@@ -15,6 +15,8 @@ See full tutorial here: [1.54in e-Paper Display with Arduino](https://makersport
 The 1_54in_epaper library can be downloaded using git:
 
     git clone https://github.com/makerportal/1_54in_epaper
+    
+Make sure to place the 1_54in_epaper library in the Arduino 'libraries' folder before continuing with the examples!
 
 <a id="wiring"></a>
 # - Wiring the 1.54in e-Paper Display to Arduino Uno -
