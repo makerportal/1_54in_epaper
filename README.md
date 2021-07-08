@@ -3,8 +3,9 @@ Arduino codes for a 1.54 inch E-Paper Display that works with Arduino Uno, Nano 
 
 Based on the codes at: https://github.com/waveshare/e-Paper
 
-Get your 1.54in e-Paper Display here: [1.54in e-Paper Display](https://makersportal.com/shop/solar-panel-datalogger-kit-for-arduino) <br>
-See full tutorial here: [1.54in e-Paper Display with Arduino](https://makersportal.com/blog/solar-panel-characterization-and-experiments-with-arduino) <br>
+Get your 1.54in e-Paper Display here: [1.54in e-Paper Display](https://makersportal.com/shop/e-paper-display-for-arduino) <br>
+Get the BLExAR App: [BLExAR App Link](https://makersportal.com/blexar)
+See full tutorial here: [1.54in e-Paper Display with Arduino](https://makersportal.com/blog/) <br>
 
 # 
 ### JUMP TO:
@@ -36,3 +37,7 @@ This simple example will print out integer values starting with 0 and marching f
 The second example allows users to send text from a smartphone (we use the BLExAR app) to a BLE-Nano Arduino board that updates the 1.54in e-Paper display:
 
 - BLE_text_display.ino
+
+An example output is shown below:
+
+![1.54in e-paper BLE output](https://images.squarespace-cdn.com/content/v1/59b037304c0dbfb092fbe894/1625758054341-JR6QSP5KLM0XP7UCJWM1/epaper_display_BLE_hi_arduino.JPG?format=1500w)
