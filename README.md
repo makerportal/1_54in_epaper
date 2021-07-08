@@ -29,6 +29,9 @@ The first example is a simple updating text display and can be found in the exam
 
 - simple_text_display.ino
 
+This simple example will print out integer values starting with 0 and marching forward until the count overflows:
+
+![1.54in e-paper simple output](https://images.squarespace-cdn.com/content/v1/59b037304c0dbfb092fbe894/1625758194858-ULANDH0XWTN2BFPMTR8S/epaper_display_simple_counter.JPG?format=1000w)
 
 The second example allows users to send text from a smartphone (we use the BLExAR app) to a BLE-Nano Arduino board that updates the 1.54in e-Paper display:
 
