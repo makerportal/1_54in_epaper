@@ -10,7 +10,6 @@
 
 #include <SPI.h>
 #include "1_54in_epaper.h"
-#include "imagedata.h"
 #include <stdlib.h>
 
 Epd epd; // initiate e-paper display [epd]
