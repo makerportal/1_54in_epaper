@@ -3,7 +3,7 @@ Arduino codes for a 1.54 inch E-Paper Display that works with Arduino Uno, Nano 
 
 Get your 1.54in e-Paper Display here: [1.54in e-Paper Display](https://makersportal.com/shop/e-paper-display-for-arduino) <br>
 Get the BLExAR App: [BLExAR App](https://makersportal.com/blexar) <br>
-See full tutorial here: [1.54in e-Paper Display with Arduino](https://makersportal.com/blog/) <br>
+See full tutorial here: [1.54in e-Paper Display with Arduino](https://makersportal.com/blog/bluetooth-enabled-e-paper-display-with-arduino) <br>
 
 # 
 ### JUMP TO:
