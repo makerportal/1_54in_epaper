@@ -40,4 +40,4 @@ The second example allows users to send text from a smartphone (we use the BLExA
 
 An example output is shown below:
 
-![1.54in e-paper BLE output](https://images.squarespace-cdn.com/content/v1/59b037304c0dbfb092fbe894/1625758054341-JR6QSP5KLM0XP7UCJWM1/epaper_display_BLE_hi_arduino.JPG?format=1500w)
+![1.54in e-paper BLE output](https://images.squarespace-cdn.com/content/v1/59b037304c0dbfb092fbe894/1625776218531-4ACCXVTH47XX8MZF0T2G/epaper_display_BLE_hi_arduino.JPG?format=2500w)
